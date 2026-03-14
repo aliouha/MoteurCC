@@ -1,0 +1,9 @@
+# MATLAB generated files
+*.slxc
+*.asv
+*.m~
+slprj/
+*/slprj/
+# Simulink cache
+codegen/
+*.mex*
